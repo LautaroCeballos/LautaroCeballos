@@ -13,18 +13,23 @@
 
   ```javascript
 const Lautaro = {
-  code: [Javascript, Typescript, Html5, Css3, Node],
-  tools: [React, Redux, Express, MongoDB, TailwindCSS, jQuery],
-  design: [Photoshop, Illustrator, AdobeXD, Figma],
-  next: ["Chakra UI", "NextJS", "React Native"],
+  code: [ Javascript, Typescript, Html5, Css3, Node ],
+  tools: [ React, Redux, Express, MongoDB, TailwindCSS, JQuery ],
+  design: [ Photoshop, Illustrator, AdobeXD, Figma ],
+  next: [ ChakraUI, NextJS, ReactNative ],
   challenge: "Estoy haciendo el desafio #100DaysOfCode enfocado en react y typescript"
 }
 ```
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaroceballos" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaroceballos&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/lautaroceballos/github-readme-stats)
+<br/>
 
 <p align="center">
-  📣 Encuentrame en las redes :<br/>
+  📣 Encuentrame en las redes : <br/><br/>
   <a href="mailto:lautaroceballos2013@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/rock_and_beers/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lautaro-ceballos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
