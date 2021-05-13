@@ -14,7 +14,7 @@
   ```javascript
 const Lautaro = {
   code: [ Javascript, Typescript, Html5, Css3, Node ],
-  tools: [ React, Redux, Express, MongoDB, TailwindCSS, JQuery ],
+  tools: [ React, Redux, Angular, Express, MongoDB, TailwindCSS, JQuery ],
   design: [ Photoshop, Illustrator, AdobeXD, Figma ],
   next: [ ChakraUI, NextJS, ReactNative ],
   challenge: "Estoy haciendo el desafio #100DaysOfCode enfocado en react y typescript"
